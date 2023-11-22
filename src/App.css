@@ -1,0 +1,6 @@
+/* Add this CSS to your project's styles file or a global style */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: red; /* Change the color to your desired color */
+  border: 1px solid red; /* Change the color to your desired color */
+}
